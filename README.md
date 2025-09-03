@@ -1,8 +1,9 @@
-📄 Certificate Showcase: Python & Data Science with Machine Learning
+📄 Certificate Showcase: Python, Discover Data Analysis & Data Science with Machine Learning
 Welcome to my certificate repository! This space is dedicated to documenting my learning journey and technical growth in the fields of programming, data analytics, and machine learning.
 
 🎓 Certificates Included
 Certificate	Issuing Organization	Completion Date	Grade
+Discover Data Analysis Microsoft September 2025
 Python Programming	Computronics Centre for Computer Education	July 2022	A
 Data Science & Machine Learning	Rooman Technologies (in association with NSDC & NASSCOM)	March 2023	A
 🧠 Why This Repository?
