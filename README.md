@@ -1,6 +1,5 @@
 
-
-#📄 Certificate Showcase: Python, Data Analysis & Data Science with Machine Learning
+# 📄 Certificate Showcase: Python, Data Analysis & Data Science with Machine Learning
 
 Welcome to my **certificate repository**!
 This space is dedicated to documenting my **learning journey** and **technical growth** in the fields of **programming, data analytics, and machine learning**.
@@ -45,4 +44,3 @@ Stay tuned for upcoming repositories featuring **real-world analytics projects, 
 
 If you’re a recruiter, collaborator, or fellow learner, feel free to **explore my work and reach out**.
 I’m always open to **feedback, opportunities, and knowledge-sharing**.
-
